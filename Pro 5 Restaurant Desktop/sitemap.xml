@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.8ablish.com/index.html</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/vietnamese_sandwich_banh_mi_im_a0_rectangle_10_pattern.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/prawn_salad_768x960_a0_rectangle_11_pattern.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/_mxvquqod.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/phogaeggsbowltop_a0_rectangle_13_pattern.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/vegan_gluten_free_banh_xeo_vie_a0_rectangle_18_pattern@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.8ablish.com/images/screen_shot_2019_11_15_at_4_52_a0_rectangle_20_pattern@2x-crop-u728.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

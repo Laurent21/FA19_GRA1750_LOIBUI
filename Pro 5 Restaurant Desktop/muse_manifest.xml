@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.8ablish.com" resolutions="1x" timestamp="1574206533353">
+  <folder name="css">
+    <file name="site_global.css" crc="160935672"/>
+    <file name="index.css" crc="532854232" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ep_01192016_vietnamesestylespaghettisquashnoodlebowlswithsteak.jpg" crc="472383107" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vietnamese_sandwich_banh_mi_im_a0_rectangle_10_pattern.jpg" crc="329530272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prawn_salad_768x960_a0_rectangle_11_pattern.jpg" crc="4262342651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mxvquqod.jpg" crc="4278272898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phogaeggsbowltop_a0_rectangle_13_pattern.png" crc="336893220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegan_gluten_free_banh_xeo_vie_a0_rectangle_18_pattern@2x.jpg" crc="4046615603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_shot_2019_11_15_at_4_52_a0_rectangle_20_pattern@2x-crop-u728.jpg" crc="467058393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4181111093" seo="true" mt="1574206463050" redirect="true"/>
+</manifest>

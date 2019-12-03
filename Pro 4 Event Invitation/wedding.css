@@ -1,0 +1,51 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	width: 600px;
+	height: 833px;
+	background-image: URL("wedding-invitation.png");
+	
+}
+.sarah{
+    font-family: Alex Brush;
+    font-size: 80px;
+    color: #f59bb7; 
+    padding-top: -3px; 
+    padding-bottom: 1px; 
+    margin-top: 52px; 
+    margin-bottom: -101px; 
+    letter-spacing: -2px;
+}
+.to{
+    font-family: Alex Brush; 
+    font-size: 44px; 
+    color: #8c8c8c; 
+    padding-top: -6px; 
+    padding-bottom: -18px; 
+    margin-top: 58px; 
+    letter-spacing: -2px; 
+    margin-bottom: -73px;"
+}
+
+.brent{
+    font-family: Alex Brush; 
+    font-size: 80px; 
+    color: #f59bb7; 
+    padding-top: -3px; 
+    padding-bottom: 0px; 
+    margin-top: 52px; 
+    letter-spacing: -2px; 
+    margin-bottom: -17px;"
+}
+.reception{
+    font-family: Alex Brush; 
+    font-size: 43px; 
+    color: #f59bb7; 
+    padding-top: -3px; 
+    padding-bottom: 0px; 
+    margin-top: -7px; 
+    letter-spacing: -2px; 
+    margin-bottom: -30px;
+}

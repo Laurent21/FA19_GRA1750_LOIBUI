@@ -1,0 +1,31 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.8ablishmobile.com" resolutions="1x" timestamp="1573956867370">
+  <folder name="css">
+    <file name="site_global.css" crc="289565313"/>
+    <file name="index.css" crc="4200384798" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ep_01192016_vietnamesestylespa_a0_rectangle_5_pattern@2x.jpg" crc="4100828365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vietnamese_sandwich_banh_mi_im_a0_rectangle_10_pattern@2x.jpg" crc="289918365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegan_gluten_free_banh_xeo_vie_a0_rectangle_17_pattern.jpg" crc="521579995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phogaeggsbowltop.jpg" crc="3799986241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vietnamese_noodle_bowl_pic_3_a0_rectangle_7_pattern.jpg" crc="4143694089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="290952594" seo="true" mt="1573956838523" redirect="true"/>
+</manifest>
